@@ -12,3 +12,6 @@ This Unit covers the following :
 - Pandas, Intro to statistics (miniproject: dw)
 - Data munging
 - SQL & Object-relation mapping
+
+
+=> [Certificate of Completion for UNIT I](https://www.youracclaim.com/badges/62949980-9bd6-49fb-b9fc-6c207dde8401/public_url)
